@@ -1,16 +1,16 @@
 [submodule "storage-service"]
 	path = storage-service
-	url = https://github.com/Azure/pcs-storage-adapter-dotnet.git
+	url = https://github.com/kyleestes/pcs-storage-adapter-dotnet.git
 [submodule "simulation-service"]
 	path = simulation-service
-	url = https://github.com/Azure/device-simulation-dotnet.git
+	url = https://github.com/kyleestes/device-simulation-dotnet.git
 [submodule "webui"]
 	path = webui
-	url = https://github.com/Azure/pcs-simulation-webui.git
+	url = https://github.com/kyleestes/pcs-simulation-webui.git
 [submodule "pcs-diagnostics-dotnet"]
 	path = pcs-diagnostics-dotnet
-	url = https://github.com/Azure/pcs-diagnostics-dotnet.git
+	url = https://github.com/kyleestes/pcs-diagnostics-dotnet.git
 [submodule "pcs-config-dotnet"]
 	path = pcs-config-dotnet
-	url = https://github.com/Azure/pcs-config-dotnet.git
+	url = https://github.com/kyleestes/pcs-config-dotnet.git
 	branch = RemoveServiceDependency
